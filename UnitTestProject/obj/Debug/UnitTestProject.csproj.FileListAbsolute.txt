@@ -1,0 +1,8 @@
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\bin\Debug\ConsoleApplication5.exe
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\bin\Debug\ConsoleApplication5.pdb
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\orion\documents\visual studio 2015\Projects\ConsoleApplication5\UnitTestProject\obj\Debug\UnitTestProject.pdb
